@@ -62,6 +62,22 @@ A strange, ritualistic micro‑civilization with religious overtones.
 
 ---
 
+## 🌐 Multiverse Index
+
+- [Solarpunk Squirrel Squad](https://github.com/waterfat/Solarpunk-Squirrel-Squad)
+- [Rogue Rats](https://github.com/waterfat/Rogue-Rats)
+- [Clergy Mice](https://github.com/waterfat/Clergy-Mice)
+
+---
+
+## 📊 GitHub Stats
+
+![Waterfat's GitHub stats](https://github-readme-stats.vercel.app/api?username=waterfat&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waterfat&layout=compact&theme=dark)
+
+---
+
 ## ⚡ About Me
 
 I build weird, structured, suburban‑animal universes and experiment with horror imagery, industrial design, and AI workflows.  
