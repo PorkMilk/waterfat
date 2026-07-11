@@ -13,6 +13,9 @@ https://www.tiktok.com/@cybermonk_monkey
 **X:**  
 https://x.com/cybermonkmonkey
 
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cybermonkmonkey)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@cybermonk_monkey)
+
 ---
 
 ## 🧠 What I Make
@@ -63,4 +66,3 @@ A strange, ritualistic micro‑civilization with religious overtones.
 
 I build weird, structured, suburban‑animal universes and experiment with horror imagery, industrial design, and AI workflows.  
 Everything I make is part of a growing multiverse.
-
